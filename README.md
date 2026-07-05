@@ -117,5 +117,3 @@ struct User {
 ## Authors
 
 - Harsh Kumar
-- Nayanipatruni Sumanth  
-- Harshit Verma
